@@ -1,0 +1,8 @@
+enum SORTING {
+  ASCENDING
+  DESCENDING
+}
+
+type Query {
+  Author: String!
+}
